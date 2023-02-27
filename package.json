@@ -17,5 +17,8 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "description": "description disi mone kor",
+  "author": "woliur <woliur@sheba.xyz>",
+  "license": "MIT"
 }
